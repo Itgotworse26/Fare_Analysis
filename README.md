@@ -16,13 +16,18 @@ The purpose of this analysis is to conduct an analysis of fares and break them d
 
 * Even though rural cities have the lowest count of rides (125 rides,), least drivers (78 drivers), and lowest total fares ($4327.93), the average fare per ride ($34.62) is the highest and drivers make the most money per fare ($55.49).
 
+
 ![Analysis of Fares over Jan to April](https://github.com/Itgotworse26/Fare_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
 * Urban total fares are the highest; it is only during the beginning of the year and one small period in March do they fall below $2000. The very start of the year is the lowest point for urban total fares while the high points are in the tail end of February and start of March.
 
 * Surburban total fares are the second highest. Like the urban total fares, the start of the year is the lowest point, with long stretches of total fares barely staying above $1000. The high point for surburban total fares comes in the tail end of February with another brief spike at the end of April.
 
-* Rural total fares are the lowest. It is only at their highest point at the beginning of April when rural total fares make it to $500.
+* Rural total fares are the lowest. The lowest point for rural total fares is in the beginning of January, but they remain consistently low. It is only at their highest point at the beginning of April when rural total fares make it to $500. 
 
 ## Summary:
+Even though the highest total fares comes from the urban area, PyBer makes more per fare in rural areas. Drivers in rural areas also make more per fare as well. While this does not mean much in terms of total fares, it does represent how PyBer might adjust its strategy in non-urban areas. 
 
+If PyBer wants to figure out how to increase profits, one andof the best ways to do so at face-value is to increase the number of rides without increasing the number of drivers. Of course, the problem would be the possibility that the quota implemented on existing drivers would be unreailstic and lead to bad publicity and liabilities, especially if said drivers get into accidents on company time. 
+
+A more optimal method would possibly be increasing the number of drivers and rides in rural and suburban areas. As pointed out, even though total fares in rural and surburban cities are lower than in urban areas, PyBer makes more per fare and drivers make more per fare as well. Asking for more rides from existing drivers would be a legal and logistical debacle, but if PyBer attracts more drivers in rural and surbuban areas by pushing the angle on how much rural  surburban driver make per fare, it can then adjust for strategies that can then attract more riders in rural and surburban areas. The advantages non-urban areas have in fares per ride might not survive, but the potential for higher total fares could be worth the trade-off.  
